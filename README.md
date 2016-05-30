@@ -13,3 +13,7 @@ http://www.edenred.fi/products/ticket-lounas/employer
 Replace the placeholders in getbalance.py with your real username and password.
 
     python ./getbalance.py
+
+## TODO
+
+* Support Python 3
