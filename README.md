@@ -17,3 +17,7 @@ Replace the placeholders in getbalance.py with your real username and password.
 ## TODO
 
 * Support Python 3
+
+## Edenblue family
+
+https://github.com/spedepekka/edenblue-android
